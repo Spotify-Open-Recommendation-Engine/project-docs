@@ -7,6 +7,7 @@ A few PDF docs in a few directories:
 
 ### `release1/`
   - **Release plan** - overview & initial user stories (this was our first project doc, ever!)
+  - **Known problems report** - list of known problems within the app on release
 
 ### `sprint1/` ~ `sprint4/`
   - **Sprint plan** - constructed at the beginning of each 2-week sprint
